@@ -1,0 +1,1 @@
+{"description":"make.fun entry — Status Report Comedy Sprint","devDependencies":{"tsx":"^4.0.0"},"license":"MIT","name":"status-report-comedy-makefun","scripts":{"start":"tsx main.ts"},"type":"module","version":"1.0.0"}
